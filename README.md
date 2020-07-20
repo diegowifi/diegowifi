@@ -7,4 +7,4 @@
 
 🎖 &nbsp; I'm looking to collaborate on open source projects related to frontend or mobile development
 
-📫 &nbsp; You can reach me writing an email to: diegoponce@outlook.com
+📫 &nbsp; You can reach me writing an email to: hello@diegoponce.dev
