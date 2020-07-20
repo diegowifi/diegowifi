@@ -5,6 +5,6 @@
 
 🌱 &nbsp; I'm currently learning Node and Golang
 
-🎖 &nbsp; I'm looking to collaborate on open source projects related to frontend or mobile development
+🎖 &nbsp; I'm looking to collaborate on open source projects related to frontend or mobile development using Flutter
 
-📫 &nbsp; You can reach me writing an email to: hello@diegoponce.dev
+📫 &nbsp; You can reach me writing an email to hello@diegoponce.dev
